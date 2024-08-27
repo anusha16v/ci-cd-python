@@ -9,4 +9,4 @@ class BasicTestCase(unittest.TestCase):
         self.assertIn(b'Hello', response.data) 
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main()   
